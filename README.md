@@ -11,6 +11,7 @@ An aestroid generation script
 3. (WASD) For moving
 4. Q and E for rotation
 5. Mouse for look direction
+6. k to destruct (Camera will be disabled but you can see destroyed item in scene window)
 
 
 
